@@ -1,1 +1,2 @@
 select * from vaidarcerto
+inner join sucesso on vaidarcerto = sucesso
